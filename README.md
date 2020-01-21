@@ -24,6 +24,7 @@ which is based on http://www.technoblogy.com/show?QBB
 * **Arduino Uno** OR **USB AVR programmer**
 
 
+<br>
 
 ## 3D Design
 <p align="center" style="vertical-align: top; position: relative" >
